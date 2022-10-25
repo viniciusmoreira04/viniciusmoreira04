@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Vinícius Moreira. :)
 
 - 🎓 Sou estudante de Engenharia de Software na UFC.
-- 📞 LinkedIn: viniciusmoreira04  |  Instagram: viniciusmoreira4
 
 <div align="center">
   <a href="https://github.com/viniciusmoreira04">
