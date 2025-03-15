@@ -10,12 +10,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusmoreira04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
   </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vinicius-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
@@ -40,7 +34,5 @@
 ###
 
 <br clear="both">
-
 <img src="https://raw.githubusercontent.com/viniciusmoreira04/viniciusmoreira04/output/snake.svg" alt="Snake animation" />
-
 ###
