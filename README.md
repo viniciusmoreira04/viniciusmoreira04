@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Vinícius Moreira. :)
 
-- 🎓 Sou estudante de Engenharia de Software na UFC.
+- 🎓 Sou graduado em Engenharia de Software pela Universidade Federal do Cerá (UFC).
 
 <div align="center">
   <a href="https://github.com/viniciusmoreira04">
