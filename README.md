@@ -30,5 +30,5 @@
 
 
 
-<br clear="both">
-<img src="https://raw.githubusercontent.com/viniciusmoreira04/viniciusmoreira04/output/snake.svg" alt="Snake animation" />
+<br clear="both"> 
+<img src="https://raw.githubusercontent.com/viniciusmoreira04/viniciusmoreira04/output/snake.svg" alt="Snake animation" /> ###
